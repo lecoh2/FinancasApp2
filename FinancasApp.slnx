@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/Itens de Solução/">
+    <File Path="../../../Desktop/Financas/.github/workflows/pipeline.yml" />
+  </Folder>
+  <Project Path="FinancasApp.API/FinancasApp.API.csproj" />
+</Solution>
