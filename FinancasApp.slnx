@@ -3,4 +3,6 @@
     <File Path="../../../Desktop/Financas/.github/workflows/pipeline.yml" />
   </Folder>
   <Project Path="FinancasApp.API/FinancasApp.API.csproj" />
+  <Project Path="FinancasApp.DOMAIN/FinancasApp.DOMAIN.csproj" Id="4c304c96-7244-4d2c-9fa9-b93dbd693065" />
+  <Project Path="FinancasApp.INFRA.DATA/FinancasApp.INFRA.DATA.csproj" Id="35057aff-3b72-4107-93aa-0c4db8b60079" />
 </Solution>
